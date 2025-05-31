@@ -1,2 +1,21 @@
-# Py_Algo_Visualiser
-simple desktop py_visualiser
+# Python Algorithm Visualizer
+
+ A simple and interactive algorithm visualizer built using Python and Tkinter. This project helps understand how sorting algorithms like Bubble Sort work by showing animated steps of the algorithm.
+
+## Features
+- Visualize Bubble Sort (more algorithms coming soon)
+- Color-coded steps
+- Easy to use GUI
+- Adjustable speed and data size (future)
+
+## Tech Stack
+- Python 3
+- Tkinter (built-in GUI library)
+
+##  How to Run
+
+```bash
+git clone https://github.com/yourusername/dsa-visualizer.git
+cd dsa-visualizer
+pip install -r requirements.txt
+python main.py
