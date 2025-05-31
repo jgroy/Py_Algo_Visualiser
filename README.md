@@ -15,6 +15,6 @@
 ##  How to Run
 
 ```bash
-git clone https://github.com/yourusername/dsa-visualizer.git
-cd dsa-visualizer
+git clone https://github.com/<yourname>/Py_Algo_Visualiser.git
+cd Py_Algo_Visualiser
 python main.py
