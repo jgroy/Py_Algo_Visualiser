@@ -1,6 +1,0 @@
-mkdir dsa-visualizer
-cd dsa-visualizer
-python -m venv venv
-source venv/bin/activate  # use `venv\Scripts\activate` on Windows
-pip install tkinter       # Usually comes pre-installed with Python
-touch main.py algorithms.py utils.py README.md requirements.txt
