@@ -17,5 +17,4 @@
 ```bash
 git clone https://github.com/yourusername/dsa-visualizer.git
 cd dsa-visualizer
-pip install -r requirements.txt
 python main.py
