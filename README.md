@@ -16,5 +16,5 @@
 
 ```bash
 git clone https://github.com/<yourname>/Py_Algo_Visualiser.git
-cd Py_Algo_Visualiser
+cd Py_Algo_Visualiser-main
 python main.py
